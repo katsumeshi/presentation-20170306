@@ -3,8 +3,7 @@
  *
  * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
  */
-@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic);
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
@@ -13,7 +12,7 @@ body {
   background-color: #111; }
 
 .reveal {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
   font-size: 40px;
   font-weight: normal;
   color: #eee; }
@@ -44,7 +43,7 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #eee;
-  font-family: "Montserrat", Impact, sans-serif;
+  font-family: "Noto Sans JP", Impact, sans-serif;
   font-weight: normal;
   line-height: 1.2;
   letter-spacing: -0.03em;
